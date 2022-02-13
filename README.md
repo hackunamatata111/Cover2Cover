@@ -67,7 +67,7 @@ https://github.com/animate-css/animate.css
 # Developed by Hackuna Matata
 Front End Developers:\
 Brij Desai\
-Yukta\
+Yukta Rajapur\
 Backend End Developers:\
 Nilay\
 Nitheezkant R
