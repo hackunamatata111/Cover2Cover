@@ -1,0 +1,42 @@
+
+.card {
+    width: 400px;
+    height: 550px;
+    background-color: rgba(252, 246, 246, 0.89);
+    border: whitesmoke;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+
+.form-control {
+    margin-top: 10px;
+    margin-bottom: 1px;
+    height: 48px;
+    border: 2px solid #eee;
+    border-radius: 10px
+}
+
+.form-control:focus {
+    box-shadow: none;
+    border: 2px solid #039BE5
+}
+
+.agree-text {
+    font-size: 12px
+}
+
+
+.confirm-button {
+    height: 50px;
+    border-radius: 10px
+}
+.center{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+  
+  }
