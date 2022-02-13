@@ -69,7 +69,7 @@ Front End Developers:\
 Brij Desai\
 Yukta Rajapur\
 Backend End Developers:\
-Nilay\
+Nilay Kamat\
 Nitheezkant R
 
 Project report:\
