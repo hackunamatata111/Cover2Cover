@@ -72,8 +72,8 @@ Backend End Developers:\
 Nilay Kamat\
 Nitheezkant R
 
-Project report:\
-Project Demo:
+Project report:https://docs.google.com/document/d/1dZw0-_wF2Wj15QegmGVBa83KHLsMyFU1KwI1fLPU-l8/edit\
+Project Demo:https://youtu.be/rZKCWEnnmmQ
 
 # The End
 
